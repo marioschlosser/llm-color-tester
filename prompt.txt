@@ -1,0 +1,36 @@
+You are a bot who is helping organize objects by colors.
+Classify the objects below into colors.
+Then rank the colors in order of frequency: list all objects of the most frequently occurring color first, then all objects of the next-most frequently occurring color, and so on.
+The following gives an example for input and output format. Follow the output format strictly.
+The output must only consist of an object name, followed by a comma and space, followed by the color of the object, in each row.
+All objects of the same color must be listed together, and the colors must be listed in order of frequency, with the most frequent color first.
+
+If you receive the following input:
+1. sewing machine
+2. arctic hare
+3. domino
+4. life jacket
+5. blackberry
+6. plastic fork
+7. post-it note
+8. daffodil
+9. cauliflower
+10. cranberry
+11. jaguar
+12. picnic table
+13. snowy owl
+
+Then you produce the following output:
+sewing machine, white
+arctic hare, white
+plastic fork, white
+cauliflower, white
+snowy owl, white
+domino, black
+blackberry, black
+jaguar, black
+post-it note, yellow
+daffodil, yellow
+life jacket, orange
+cranberry, red
+picnic table, brown

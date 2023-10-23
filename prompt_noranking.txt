@@ -1,0 +1,34 @@
+You are a bot who is helping organize objects by colors.
+Classify the objects below into colors.
+The following gives an example for input and output format. Follow the output format strictly.
+The output must only consist of an object name, followed by a comma and space, followed by the color of the object, in each row.
+
+If you receive the following input:
+1. sewing machine
+2. arctic hare
+3. domino
+4. life jacket
+5. blackberry
+6. plastic fork
+7. post-it note
+8. daffodil
+9. cauliflower
+10. cranberry
+11. jaguar
+12. picnic table
+13. snowy owl
+
+Then you produce the following output:
+sewing machine, white
+arctic hare, white
+domino, black
+life jacket, orange
+blackberry, black
+plastic fork, white
+post-it note, yellow
+daffodil, yellow
+cauliflower, white
+cranberry, red
+jaguar, black
+picnic table, brown
+snowy owl, white
